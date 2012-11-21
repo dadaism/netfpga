@@ -11,7 +11,7 @@ all : registers cli regdump show_stats
 registers:
 	$(NF_ROOT)/bin/nf_register_gen.pl --project reference_router
 
-show_stats: show_stats.o ../../../lib/C/common/nf2util.o ../../../lib/C/common/nf2util_proxy_common.o ../../../lib/C/common/util.o ../lib/C/reg_defines_reference_router.h
+show_stats: show_stats.o ../../../lib/C/common/nf2util.o ../../../lib/C/common/nf2util_proxy_common.o ../../../lib/C/common/util.o ../lib/C/reg_defines_reference_router.h $(LDFLAGS)
 
 cli : cli.o ../../../lib/C/common/nf2util.o ../../../lib/C/common/nf2util_proxy_common.o ../../../lib/C/common/util.o ../lib/C/reg_defines_reference_router.h
 

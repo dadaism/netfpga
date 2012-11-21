@@ -10,7 +10,7 @@ registers:
 
 regdump : regdump.o ../../../lib/C/common/nf2util.o ../../../lib/C/common/nf2util_proxy_common.o ../../../lib/C/common/nf2util.h ../lib/C/reg_defines_reference_switch.h
 
-show_stats: show_stats.o ../../../lib/C/common/nf2util.o ../../../lib/C/common/nf2util_proxy_common.o ../../../lib/C/common/util.o ../lib/C/reg_defines_reference_switch.h ../../../lib/C/common/nf2util.h
+show_stats: show_stats.o ../../../lib/C/common/nf2util.o ../../../lib/C/common/nf2util_proxy_common.o ../../../lib/C/common/util.o ../lib/C/reg_defines_reference_switch.h ../../../lib/C/common/nf2util.h $(LDFLAGS)
 
 clean :
 	rm -f regdump show_stats *.o
