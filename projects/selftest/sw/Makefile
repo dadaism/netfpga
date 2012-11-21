@@ -32,6 +32,7 @@ selftest: selftest.o \
 	selftest_clk.o \
 	selftest_dma.o or_ip.o or_utils.o \
 	$(NF_UTIL_LIB) \
+	$(LDFLAGS)
 
 bad_pkt_dump: bad_pkt_dump.o $(NF_UTIL_LIB)
 
