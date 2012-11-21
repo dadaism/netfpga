@@ -1,0 +1,1 @@
+cmd_/home/daniel/netfpga/lib/C/kernel/nf2.o := ld -m elf_x86_64   -r -o /home/daniel/netfpga/lib/C/kernel/nf2.o /home/daniel/netfpga/lib/C/kernel/nf2main.o /home/daniel/netfpga/lib/C/kernel/nf2_control.o /home/daniel/netfpga/lib/C/kernel/nf2util.o /home/daniel/netfpga/lib/C/kernel/nf2_ethtool.o 
