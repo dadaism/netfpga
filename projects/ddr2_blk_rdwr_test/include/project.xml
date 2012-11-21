@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nf:project xmlns:nf="http://www.NetFPGA.org/NF2_register_system" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.NetFPGA.org/NF2_register_system NF2_register_system.xsd ">
+  <nf:name>DDR2 Block Read/Write Test</nf:name>
+  <nf:description>DDR2 Block Read/Write Test</nf:description>
+  <nf:version_major>0</nf:version_major>
+  <nf:version_minor>1</nf:version_minor>
+  <nf:version_revision>0</nf:version_revision>
+  <nf:dev_id>7</nf:dev_id>
+  <nf:use_modules>
+    core/utils
+    core/ddr2_controller
+    core/ddr2_blk_rdwr
+    core/cpci_bus
+  </nf:use_modules>
+  <nf:memalloc layout="reference">
+    <nf:group name="core1">
+      <nf:instance name="device_id" />
+    </nf:group>
+  </nf:memalloc>
+</nf:project>

@@ -1,0 +1,141 @@
+iptraf - Interactive Colorful IP LAN Monitor
+lib32ncurses5 - shared libraries for terminal handling (32-bit)
+lib32ncurses5-dev - developer's libraries for ncurses (32-bit)
+lib32ncursesw5 - shared libraries for terminal handling (wide character support) (32-bit)
+lib32ncursesw5-dev - developer's libraries for ncursesw (32-bit)
+lib32tinfo-dev - developer's library for the low-level terminfo library (32-bit)
+lib32tinfo5 - shared low-level terminfo library for terminal handling (32-bit)
+libncurses5 - shared libraries for terminal handling
+libncurses5-dbg - debugging/profiling libraries for ncurses
+libncurses5-dev - developer's libraries for ncurses
+libncursesw5 - shared libraries for terminal handling (wide character support)
+libncursesw5-dbg - debugging/profiling libraries for ncursesw
+libncursesw5-dev - developer's libraries for ncursesw
+libtinfo-dev - developer's library for the low-level terminfo library
+libtinfo5 - shared low-level terminfo library for terminal handling
+libtinfo5-dbg - debugging/profiling library for the low-level terminfo library
+mtr-tiny - Full screen ncurses traceroute tool
+nano - small, friendly text editor inspired by Pico
+ncurses-base - basic terminal type definitions
+ncurses-bin - terminal-related programs and man pages
+ncurses-doc - developer's guide and documentation for ncurses
+ncurses-examples - test programs and examples for ncurses
+ncurses-term - additional terminal type definitions
+whiptail - Displays user-friendly dialog boxes from shell scripts
+lib64ncurses5 - shared libraries for terminal handling (64-bit)
+lib64ncurses5-dev - developer's libraries for ncurses (64-bit)
+lib64tinfo5 - shared low-level terminfo library for terminal handling (64-bit)
+ydpdict - interface for Collins and Langenscheidt dictionaries
+abook - text-based ncurses address book application
+apt-dater - terminal-based remote package update manager
+apt-dater-dbg - terminal-based remote package update manager (dbg symbols)
+apt-dater-host - host helper application for apt-dater
+audtty - ncurses based frontend to audacious
+aumix - Simple text-based mixer control program
+aumix-common - Simple text-based mixer control program (common files)
+aumix-gtk - Simple mixer control program with GUI and text interfaces
+aylet - ncurses-based player for Spectrum '.ay' music files
+bastet - ncurses Tetris clone with a bastard algorithm
+bochs-term - Terminal (ncurses-based) plugin for Bochs
+btscanner - ncurses-based scanner for Bluetooth devices
+canto - flexible ncurses Atom/RSS newsreader for the console
+cdw - Tool for burning CD's - console version
+centerim-utf8 - A text-mode multi-protocol instant messenger client
+clex - command line file manager which uses the ncurses library
+cmus - lightweight ncurses audio player
+cmus-plugin-ffmpeg - lightweight ncurses audio player (FFmpeg plugin)
+colortest-python - utility to test color capabilities of terminal
+conky-cli - highly configurable system monitor (basic version)
+cpm - Curses based password manager using PGP-encryption
+cwcp - Morse code tutor - text user interface
+dares - rescue files from damaged CDs and DVDs (ncurses-interface)
+dav-text - A minimalist ncurses-based text editor
+dhex - ncurses based hex editor with diff mode
+ekg - console Gadu Gadu client for UNIX systems - ncurses UI
+ekg-gtk - Gadu Gadu client for UNIX systems - GTK+ UI
+ekg2 - instant messenger and IRC client for UNIX systems
+ekg2-ui-ncurses - instant messenger and IRC client for UNIX systems - ncurses interface
+fbb - Packet radio mailbox and utilities
+fizmo - Console-based Z-machine interpreter for Infocom/Inform games
+fp-units-base - Free Pascal - base units metapackage
+fp-units-base-2.4.4 - Free Pascal - base units
+gaduhistory - EKG history viewer
+gom - Command line and interactive ncurses-based OSS audio mixer
+gopher - Distributed Hypertext Client, Gopher protocol
+gtypist - simple ncurses touch typing tutor
+hatop - interactive ncurses client for haproxy
+hexcurse - A ncurses-based hex editor with many features
+hnb - hierarchical notebook
+imediff2 - interactive full screen 2-way merge tool
+iselect - ncurses-based interactive line selection tool
+juke - A curses-based jukebox program
+libcunit1-ncurses - Unit Testing Library for C (ncurses)
+libcunit1-ncurses-dev - Unit Testing Library for C (ncurses) -- development files
+libcurses-ocaml - OCaml bindings for the ncurses library
+libcurses-ocaml-dev - OCaml bindings for the ncurses library
+libcurses-perl - Curses interface for Perl
+libcurses-widgets-perl - Curses widget interface for Perl
+libggi-target-terminfo - General Graphics Interface TermInfo display target
+libghc-hscurses-dev - ncurses bindings for Haskell - development files for GHC
+libghc-hscurses-doc - ncurses bindings for Haskell - documentation
+libghc-hscurses-prof - ncurses bindings for Haskell - profiling files for GHC
+libkaya-ncurses-dev - Ncurses binding for kaya
+libkaya-ncursesw-dev - Ncurses binding for kaya
+libncurses-gst - Ncurses bindings for GNU Smalltalk
+libncurses-ruby - Transitional package for ruby-ncurses
+libncurses-ruby1.8 - Transitional package for ruby-ncurses
+libncurses-ruby1.9 - Transitional package for ruby-ncurses
+libncurses-ruby1.9.1 - Transitional package for ruby-ncurses
+libncursesada-dbg - Ada binding to the ncurses text interface library: debug symbols
+libncursesada-doc - Ada binding to the ncurses text interface library: documentation
+libncursesada2 - Ada binding to the ncurses text interface library: shared library
+libncursesada2-dev - Ada binding to the ncurses text interface library: development
+libtexttools-dbg - Ada and C++ library for writing console applications: debug symbols
+libtexttools-doc - Ada and C++ library for writing console applications: documentation
+libtexttools3-dev - Ada and C++ library for writing console applications: development
+libtexttools5 - Ada and C++ library for writing console applications: shared library
+mdm - Utilities for single-host parallel shell scripting
+moc - ncurses based console audio player
+moc-ffmpeg-plugin - ncurses based console audio player - ffmpeg plugin
+mtr - Full screen ncurses and X11 traceroute tool
+multitail - view multiple logfiles windowed on console
+nano-tiny - small, friendly text editor inspired by Pico - tiny build
+nast - packet sniffer and lan analyzer
+ncdu - ncurses disk usage viewer
+ncmpc - ncurses-based audio player
+ncmpc-lyrics - ncurses-based audio player (lyrics plugins)
+ncmpcpp - ncurses-based client for the Music Player Daemon (MPD)
+ncurses-hexedit - Edit files/disks in hex, ASCII and EBCDIC
+ninvaders - A space invaders-like game using ncurses
+nrss - A ncurses-based RSS reader
+oping - sends ICMP_ECHO requests to network hosts
+pacman4console - a console based pacman game
+pinfo - An alternative info-file viewer
+pms - Practical Music Search, an MPD client
+pork - Console-based AOL Instant Messenger & IRC client
+powerman - Centralized Power Distribution Unit (PDU) management
+radio - ncurses-based radio application
+ranger - File manager with an ncurses frontend written in Python
+rexima - a simple ncurses/command-line mixer
+rtorrent - ncurses BitTorrent client based on LibTorrent from rakshasa
+ruby-ncurses - ruby extension for the ncurses C library
+shed - A simple hex editor with a pico-style interface
+siggen - Waveform generation tools
+signing-party - Various OpenPGP related tools
+sinfo - tool for monitoring computer clusters using broadcasts
+smuxi-frontend-stfl - STFL frontend for Smuxi (experimental)
+squidview - monitors and analyses squid access.log files
+stymulator - Curses based player and converter for the YM chiptune format
+tig - ncurses-based Git repository browser
+tpp - text presentation program
+trafshow - ncurses based utility showing detailed network traffic
+tty-clock - simple terminal clock
+tudu - Command line hierarchical ToDo list
+vdr-plugin-examples - Plugins for vdr to show some possible features
+vfu - A versatile text-based filemanager
+vifm - a ncurses based file manager with vi like keybindings
+weechat-curses - Fast, light and extensible chat client - console client
+whowatch - Real-time user logins monitoring tool
+worklog - Keep Track of Time worked on Projects
+wyrd - text-based calendar application
+yacpi - ncurses based acpi monitor for text mode

@@ -1,0 +1,2 @@
+0xf8af7f22	nf2k_reg_write	/home/daniel/netfpga/lib/C/kernel/nf2	EXPORT_SYMBOL
+0x014b2a99	nf2k_reg_read	/home/daniel/netfpga/lib/C/kernel/nf2	EXPORT_SYMBOL
